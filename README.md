@@ -29,7 +29,9 @@ Documents
 
 Hypotheses
 -------------------
- - Financial ratios are good indicators of a business and its operations
+ - A neaural network model will be effective at learning past patterns of stock selection and predicting similar stocks
+ - A neaural network model will be effective at analysis large amounts of fundamental stock data
+ - The success of Warren Buffett's stock selection will continue into the future
 
 ----------
 
