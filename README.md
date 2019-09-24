@@ -37,7 +37,7 @@ Hypotheses
 
 Process
 -------------
-
+Neaural netoworks traditionally perform relatively poorley when looking at rare event prediction
 
 ----------
 
