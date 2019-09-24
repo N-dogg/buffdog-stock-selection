@@ -29,6 +29,7 @@ Documents
 
 Hypotheses
 -------------------
+Overall goal is to develop a program, trained on Warren Buffett's historical trading, that can identify future opportunities of a similar nature. The following are the projects hypotheses:
  - A neaural network model will be effective at learning past patterns of stock selection and predicting similar stocks
  - A neaural network model will be effective at analysis large amounts of fundamental stock data
  - The success of Warren Buffett's stock selection will continue into the future
