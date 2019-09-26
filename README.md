@@ -42,11 +42,11 @@ With Buffett's unique stock selection style leading to so few acquisition's, we 
 
 ![Capture](https://user-images.githubusercontent.com/43980002/65649792-5ed99e80-e04b-11e9-8cad-7493452ba0d6.JPG)
 
-To combat this we have undersampled from the negatively labelled data and included holdings from managers who claim to use the same techniques. Coupling this with a shallower architechture we can see positive results from both the training and validation cost curves early on. We saw the best results when early-stopping was implemented.
+To combat this we have undersampled from the negatively labelled data and included holdings from managers who claim to use the same techniques. Coupling this with a shallower architechture we can see positive results from both the training and validation cost curves early on. We saw the best results when early-stopping was implemented to prevent overfitting.
 
 ![Figure_1](https://user-images.githubusercontent.com/43980002/65650062-939a2580-e04c-11e9-8e20-58c008027da8.png)
 
-
+Although uncommon, after the model was trained, it was used to predict on the entire population. With a relatively strict early-stopping policy, the intention was to test whether the model could identify any stocks it still believed had the same characteristics as those held. 
 
 ----------
 
