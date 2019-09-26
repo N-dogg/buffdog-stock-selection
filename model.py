@@ -12,7 +12,6 @@ class DNN(object):
         self.model = Sequential()
         self.model.add(Dense(50, input_dim = self.input_dim, activation = 'relu'))
         self.model.add(Dense(30, activation = 'tanh'))
-        self.model.add(Dense(15, activation = 'tanh'))
         self.model.add(Dense(1, activation = 'sigmoid'))
         self.model.compile(loss = 'binary_crossentropy', optimizer = 'adam', metrics = ['accuracy'])
 
