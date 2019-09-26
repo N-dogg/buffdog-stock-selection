@@ -38,8 +38,16 @@ Overall goal is to develop a program, trained on Warren Buffett's historical tra
 
 Process
 -------------
-Neaural netoworks traditionally perform relatively poorley when looking at rare event prediction
-TBC
+With Buffett's unique stock selection style leading to so few acquisition's, we are looking at the rare-event prediction problem. Where we have an unbalanced dataset with positively labelled data representing less that 5% of the total population. No matter how large the data, the use of Deep Learning gets limited by the amount of positively labeled samples.
+
+![Capture](https://user-images.githubusercontent.com/43980002/65649792-5ed99e80-e04b-11e9-8cad-7493452ba0d6.JPG)
+
+To combat this we have undersampled from the negatively labelled data and included holdings from managers who claim to use the same techniques. Coupling this with a shallower architechture we can see positive results from both the training and validation cost curves early on. We saw the best results when early-stopping was implemented.
+
+![Figure_1](https://user-images.githubusercontent.com/43980002/65650062-939a2580-e04c-11e9-8e20-58c008027da8.png)
+
+
+
 ----------
 
 
