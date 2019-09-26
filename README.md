@@ -59,7 +59,7 @@ Profile-wise we are looking for that 'moat'. The economic barriers, patents, cop
 
 We can also look at the return on a evenly weighted portfolio made with the holdings predicted by the model. From the time when this model was trained (September 2018) till now (September 2019) we observed the following returns:
 
-![Capture1](https://user-images.githubusercontent.com/43980002/65652342-bdefe100-e054-11e9-90f7-3f25e0e38465.JPG)
+![Capture1](https://user-images.githubusercontent.com/43980002/65655509-d3b6d380-e05f-11e9-8a75-3f4c023c498f.JPG)
 
 Promising returns.
 
