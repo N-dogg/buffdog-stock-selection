@@ -53,7 +53,11 @@ Although uncommon, after the model was trained, it was used to predict on the en
 
 Example Results Screens
 --------------------
-TBC
+Here we can analyse both the profiles of the stocks selected to see if they match, and just for fun, create a portfolio to test the returns.
+
+
+
+
 ----------
 
 Next Steps
@@ -63,5 +67,9 @@ TBC
 
 Requirements
 --------------------
-TBC
+pandas  
+keras  
+matplotlib  
+sklearn  
+
 ----------
