@@ -53,7 +53,11 @@ Although uncommon, after the model was trained, it was used to predict on the en
 
 Example Results Screens
 --------------------
-Here we can analyse both the profiles of the stocks selected to see if they match, and just for fun, create a portfolio to test the returns.
+Here we can analyse both the profiles of the stocks selected to see if they match, and just for fun, create a portfolio to test the returns. 
+
+Profile-wise we are looking for that 'moat'. The economic barriers, patents, copyrights, legal barriers that make it difficult for competitors to steal market share. With predictions like Amazon, Intel and Carnival Corporation (the world’s largest leisure cruise company), it shows true. Diving into some of the stranger picks, Styker, Orthofix, IQVIA, IntelliPharmaCeutics are all leading medical companies with large controls of patents and research labs. Finally, we see predictions in the area of semiconductors, a must in a world of increasing computers. At a business profile level, we are seeing fantastic similarities between those stocks highlighted by our model and those held.
+
+
 
 
 
