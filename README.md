@@ -57,16 +57,19 @@ Here we can analyse both the profiles of the stocks selected to see if they matc
 
 Profile-wise we are looking for that 'moat'. The economic barriers, patents, copyrights, legal barriers that make it difficult for competitors to steal market share. With predictions like Amazon, Intel and Carnival Corporation (the world’s largest leisure cruise company), it shows true. Diving into some of the stranger picks, Styker, Orthofix, IQVIA, IntelliPharmaCeutics are all leading medical companies with large controls of patents and research labs. Finally, we see predictions in the area of semiconductors, a must in a world of increasing computers. At a business profile level, we are seeing fantastic similarities between those stocks highlighted by our model and those held.
 
+We can also look at the return on a evenly weighted portfolio made with the holdings predicted by the model. From the time when this model was trained (September 2018) till now (September 2019) we observed the following returns:
 
+![Capture1](https://user-images.githubusercontent.com/43980002/65652342-bdefe100-e054-11e9-90f7-3f25e0e38465.JPG)
 
-
-
+Promising returns.
 
 ----------
 
 Next Steps
 --------------------
-TBC
+- Perform research over the risk of the portfolio
+- Put my money where my analytics is
+
 ----------
 
 Requirements
